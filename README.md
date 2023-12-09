@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- Estou interessado em desenvolvimento back-end 
+- Estou interessado em desenvolvimento front-end 
 - Atualmente estou apredendo html, css, e javascript
 
 <div>  
