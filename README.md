@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 - Estou interessado em desenvolvimento front-end 
 - Atualmente estou apredendo html, css, e javascript
+- Estudante de Análise e Desenvolvimento de Sistema
 
 <div>  
 <a href="https://github.com/aryannegoncalves/github-readme-stats">
